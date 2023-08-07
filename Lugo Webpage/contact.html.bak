@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Initial D Karting</title>
+	<meta charset="utf-8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="initiald.css" rel="stylesheet">		
+</head>
+  <body>
+<div id="wrapper">
+	 <header> 
+		<img src="images/new id.png" alt="Logo" width="400" height="100">
+	 </header>
+	  <nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	  </nav>
+	<main>
+	  <h1 id="seven">CONTACT US</h1>
+	<section id="column">
+	  <section>
+		<p id="six"><font color="B22222">Initial D Karting</font><br>
+		810 Parkside Ave West Chicago, IL 60185<br> 
+		<a id="mobile" href="tel:(630)-231-0843">(630)-231-0843</a>
+		<span id="desktop">630)-231-0843</span>
+		</p>
+	  </section>
+	<section>
+	   <p id="five">We would love to hear from you! Let us know about any questions, comments or concerns you have about your Initial D Karting experience by filling out the form below.</p><br>
+	    <div class="contact-form">
+		  <div class="input-fields">
+		   <input type="text" class="input" placeholder="Full Name">
+		   <input type="text" class="input" placeholder="Email Address">
+		   <input type="text" class="input" placeholder="Phone">
+		   <input type="text" class="input" placeholder="Subject">
+		  </div>
+		  <div class="msg">
+		   <textarea placeholder="Messeage"></textarea>
+		   <div class="btn">Send</div>
+		  </div> 
+	   </div>
+	 	 <!--</div>-->
+	  </section>
+    </section>	  
+	<footer>
+		Copyright &copy; 2022 Lugo Webpage<br>
+		<a href="mailto:info@lugowebpage.com">info@lugowebpage.com</a>
+	</footer>  
+</main>	 
+</div>
+</body>
+</html>	

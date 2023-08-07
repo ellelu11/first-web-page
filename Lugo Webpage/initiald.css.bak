@@ -1,0 +1,437 @@
+* { box-sizing: border-box; }
+header, nav, main, footer { display: block;}
+body { background-color: #000000;
+	   color: #FFF;
+	   font-family: Impact;
+	   background-image: url(images/bw.jpeg);
+	   background-repeat: no-repeat;
+	   background-attachment: fixed;
+	   background-size: cover;
+}
+#wrapper {margin-left: auto;
+		  margin-right: auto;
+		  background-color: #000000;
+		  width: 80%;
+	      border-color: #ff0000;  
+          border-width: .5em;  
+          border-style: double; 
+		  padding: 10px;
+}
+header { background-image: url(images/new id.png);
+		 background-repeat: no-repeat;
+		 background-color: #000000;
+		 height: 50px;
+		 width: 400px;
+		 padding: 50px 5px 5px 5px;
+}
+nav { background-color: #000000;
+	  height: 100px;
+	  text-align: right; 
+	  color: #FFF;
+	  padding: 5px;
+	  padding-right: 30px;
+	  font-weight: normal;
+	  font-size: 1.5em;
+	  letter-spacing: 2px; 
+}
+nav ul { list-style-type: none;
+		 padding: 0;
+}
+nav ul li { display: inline-block;
+			padding: 10px 10px;
+			border-color: #ff0000;  
+            border-width: .3em;  
+            border-style: double;
+			list-style-type: none;
+}
+nav a { text-decoration: none;
+		color: #FFF;
+		padding: 5px;
+} 
+nav a:link { color: #FFF;}
+nav a:visited { color: #ff7070;}
+nav a:hover { color: #B22222;
+}
+main { display: block;
+	   padding: 20px 20px 5px 20px;  	  
+}
+#karting { background-image: url(images/karting.jpeg);
+		   background-size: 100% 100%; 
+		   height: 499px; 
+		   width: 800px;
+		   display: block;
+		   margin:  auto;
+		   border-color: #ff0000;  
+		   border-width: .5em;  
+		   border-style: double;
+		   background-repeat: no-repeat;
+}
+h1 { text-align: center; 
+	 color: #FFF;
+	 letter-spacing: 2px;
+	 padding: 20px 5px 20px 5px;
+	 text-shadow: 3px 2px 2px red;
+	 font-weight: normal;
+	 font-size: 3em;
+}
+#seven { text-align: center; 
+	     color: #FFF;
+	     letter-spacing: 2px;
+	     padding: 20px 5px 20px 5px;
+	     text-shadow: 3px 2px 2px red;
+	     font-weight: normal;
+	     font-size: 3em;
+}
+h2 { text-align: center;
+	 color: #FFF;
+	 letter-spacing: 2px;
+	 font-weight: normal;
+	 padding-top: 50px;
+	 padding-bottom: 50px;
+	 font-size: 2em;
+     text-shadow: 3px 2px 2px blue; 
+}
+h3 { text-align: center;
+	 color: #ff0000;
+	 letter-spacing: 2px;
+	 font-size: 1.5em;
+	 padding: 0;
+	 font-weight: normal;
+}
+p { text-align: center;
+	font-size: 1.8em;
+	font-weight: normal;
+	letter-spacing: 1px; 
+    padding: 10px 5px 20px 5px;  	
+}
+table { width: 350px;
+        margin: auto;
+		padding: 5px;
+		border-color: #FFF;
+		border-width: 1px;
+}
+td { padding: 10px;
+     text-align: center;
+	 font-size: 1.3em;}
+caption { font-size: 2em;
+          color: #FFF;
+		  font-weight: normal;
+		  padding-bottom: 40px;
+		  text-shadow: 3px 2px 2px red;		  
+}
+audio {display: center;
+       padding-left: 50px;
+	   height: 50px;
+	   margin-left: 33%;     	   
+}
+#kartingtrack { background-image: url(images/karting.track.jpg);
+                 background-size: 100% 100%; 
+				 height: 470px;
+				 width: 680px;
+				 display: block;
+		         margin:  auto;
+		         border-color: #ff0000;  
+		         border-width: .5em;  
+		         border-style: double;
+		         background-repeat: no-repeat;
+}
+#tbday { background-image: url(images/tbday.jpeg);
+          background-size: 100% 100%; 
+	      height: 470px;
+	      width: 680px;
+		  display: block;
+		  margin:  auto;
+		  border-color: #ff0000;  
+		  border-width: .5em;  
+		  border-style: double;
+		  background-repeat: no-repeat;
+ }
+#kidbday { background-image: url(images/kidbday.jpg);
+          background-size: 100% 100%; 
+	      height: 470px;
+	      width: 680px;
+		  display: block;
+		  margin:  auto;
+		  border-color: #ff0000;  
+		  border-width: .5em;  
+		  border-style: double;
+		  background-repeat: no-repeat;
+}
+#cevents { background-image: url(images/cevents.jpg);
+          background-size: 100% 100%; 
+	      height: 470px;
+	      width: 680px;
+		  display: block;
+		  margin:  auto;
+		  border-color: #ff0000;  
+		  border-width: .5em;  
+		  border-style: double;
+		  background-repeat: no-repeat;
+}
+#one { padding-bottom: 20px;
+       color: #FFF;}
+#two { padding-bottom: 20px;
+	   color: #FFF;
+}
+#three { padding-bottom: 20px;
+         color: #FFF;
+}
+#four { padding-bottom: 20px;
+        color: #FFF;
+}
+#five { font-size: 1.4em;
+        font-weight: normal;
+		text-align: center;
+        padding-top: 20px;		
+}
+#six {  font-size: 1.7em;
+        font-weight: normal;
+        text-align: center; 
+		padding-left: 50px;
+		padding-right: 0;
+		
+}
+ul.faqs { list-style-type: none;
+          font-size: 1.5em;
+		  font-weight: normal;
+		  letter-spacing: 1px;
+          color: #FFF;
+}
+#track1 { background-image: url(images/track1.png);
+		  display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+		  background-size: 100% 100%; 
+		  height: 300px;
+		  width: 700px;
+		  border-color: #ff0000;  
+		  border-width: .5em;  
+		  border-style: double;	  
+}
+#flags { background-image: url(images/flags.png);
+          display: block;
+		  margin: auto;
+		  background-size: 100% 100%; 
+		  height: 500px;
+		  width: 800px;	  
+}
+img { display: block;
+	  margin: auto;
+	  padding-top: 15px;
+	  padding-bottom: 15px;
+}
+#column { max-width: 1200px; 
+          display: flex;
+		 
+} 
+.contact-form { max-width: 550px;
+                margin: 0 auto;
+				background: #000000;
+				padding: 1px;
+				border-radius: 5px;
+				display: flex;				
+}
+.input-fields { display: flex;
+                flex-direction: column;
+				margin-right: 3%;
+				
+}
+.input-fields, .msg { width: 45%;
+}  
+.imput-fields, .input,
+.msg textarea { margin: 10px 0;
+                 border:0;
+                 border-bottom: 2px solid #FFF;
+                 padding: 10px;
+                 color: #000000;
+                 width: 150%;
+}
+.msg textarea{ height: 212px;}
+.btn { background: #B22222;
+       text-align: center;
+	   padding: 15px;
+	   border-radius: 5px;
+       cursor: pointer;
+	   text-transform: uppercase;
+}
+footer { background-color: #000000;
+	     font-size: 1em; 
+	     font-style: italic;
+	     text-align: center;
+	     padding-bottom: 5px;
+	     padding-top: 150px;
+	     color: #ff0000;	
+}
+#mobile { display: none; 
+}
+#desktop { display: inline; 
+}
+main h1, main h2, main h3, main h4, main p, main div, main ul, main dl
+ { padding-left:3em;
+   padding-right: 3em;
+ }
+@media only screen and (max-width: 1024px) {
+	body { margin: 0; 
+		   background-image: none;
+		   background-color:#000000;
+	}
+	#wrapper { width: auto;
+			   min-width: 0;
+			   margin: 0;
+			   padding: 0;
+			   box-shadow: none;	
+}	
+	header { padding-left: 280px;
+	         padding-top: 40px;
+	         margin: 0;		 
+	} 
+
+	nav { height: 50px;
+	      text-align: center; 
+	      padding: 5px;  
+	}
+	nav ul { padding-top: 80px;
+	         padding-bottom: 80px;
+	}
+	h1 { padding-top: 30px;
+	     padding-bottom: 10px;
+
+	}
+	#seven { padding-top: 110px;
+	         padding-bottom: 10px;
+	}
+	h2 { padding-top: 120px;
+	     padding-bottom: 20px;
+	}
+	#eight { padding-top: 20px;
+	         padding-bottom: 10px;
+	}
+	h3 { font-size: 2em;
+	     padding-top: 10px;
+	}
+	p { padding-bottom: 5px;}
+	table { width: 300px;  
+            margin: auto;
+		    padding: 5px;
+		    border-color: #FFF;
+}
+    td { padding: 5px;
+         text-align: center;
+	     font-size: 1em;
+}
+	#flags { height: 400px;
+	         width: 680px;	 
+	}	
+.input-fields { display: flex;
+                flex-direction: column;
+				margin-right: 5%;
+				
+}
+.input-fields, .msg { width: 45%;
+}  	
+}
+@media only screen and (max-width: 768px) {
+	 header { padding-left: 125px;
+	         height: 20px;
+			 width: 10px;
+	} 
+	main { display: block; }
+	nav ul li { border-style: none;}
+	nav { height: 15px;
+	      text-align: center;
+		  padding: 2px;
+		  padding-top: 20px;
+		  padding-bottom: 30px;
+		  font-size: 1.3em;
+	}
+	#karting { height: 300px;
+               width: 500px;
+               display: block;			   
+	}
+	h1 { font-size: 1.5em;
+	     padding-top: 7px;
+		 padding-bottom: 0; 
+	}
+	#seven { font-size: 1.7em;
+   }
+	h2 { font-size: 1.2em;
+	}
+	#eight { padding-top: 0;
+	         padding-bottom: 20px; 
+			 text-shadow: 3px 2px 2px red;
+	}
+	h3 { font-size: 1.5em; 
+	}
+	p { font-size: 1em;
+	    }
+	table { width: 200px;  
+            margin: auto;
+		    padding: 5px;
+		    border-color: #FFF;
+}
+    td { padding: 3px;
+         text-align: center;
+	     font-size: 1em;
+}  
+    caption { font-size: 1.3em;
+              padding-bottom: 7px;
+}
+    audio {display: block; 
+       padding-left: 25px;
+	   height: 50px;
+	   margin-left: 25%; 
+	   padding-top: 10px;     	   
+}
+	#five { font-size: 1.3em;}
+	#track1 { display: block;
+	          height: 300px;
+			  width: 550px;
+}
+	#one, #two, #three, #four { font-size: 1.3em; 
+	                            padding-top: 5px;
+								padding-bottom: 0; 
+	}
+	#kartingtrack, #tbday, #kidbday, #cevents { display: block; 
+	height: 350px;
+	width: 480px;
+	}
+	ul.faqs { font-size: 1.3em;}
+	#flags { height: 400px;
+	         width: 600px;
+	}
+	#nine { display: none;}
+	ul.faqs { font-size: 1em;    
+}	
+    #six { font-size: 1.3em;
+       text-align: center; 
+	   padding-right: 5px;
+	   padding-left: 5px;
+}
+    #column { flex-direction: column; }
+    #mobile { display: inline; }
+    #desktop { display: none; }	
+@media only screen and (max-width: 700px) {
+    header { padding-left: 20px;
+	         height: 20px;
+	  		 width: 10px;
+	}
+    #kartingtrack, #tbday, #kidbday, #cevents, #track1, #karting, #flags { display: none; }
+	audio { display: none; }
+    .input-fields { height: 20px;
+				    text-align: center;			
+}
+    .input-fields, .msg { width: 40%;
+                          text-align: center;
+					      padding-left: 5px;
+}
+    .msg textarea{ height: 50px;}	
+    .imput-fields, .input,
+    .msg textarea { margin: 20px ;
+                height: 100px;               
+}
+    .contact-form { padding: 10px }
+    .btn { margin-left: 100px; 
+           width: 80%;}		
+	#mobile { display: inline; }
+    #desktop { display: none; }	
+}

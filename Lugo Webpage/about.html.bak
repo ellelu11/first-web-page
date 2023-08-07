@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Initial D Karting</title>
+	<meta charset="utf-8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="initiald.css" rel="stylesheet">		
+</head>
+  <body>
+<div id="wrapper">
+	 <header> 
+		<img src="images/new id.png" alt="Logo" width="400" height="100">	
+	 </header>
+	  <nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	  </nav>
+	<main>
+	 <h1 id="seven">RULES</h1>
+	  <p id="five">A mandatory briefing on indoor kart racing safety and rules will be given to all new riders. Initial D Karting recommends that racers should wear closed-toe shoes and long hair should be pulled back into a ponytail. We will provide you with all of the necessary racing equipment. Please keep in mind that indoor karting is not an amusement ride and it is real racing. Accidents can happen if you do not follow the rules and pay attention to flags.<br>
+	  <br>Indoor kart racing is a non-contact sport. We do not tolerate any bumping or blocking of go karts. There is no excuse for contact if you are unable to pass a kart. Initial D Karting has a strict policy of not allowing alcohol and/or drug abuse. Anyone who appears to be impaired will not be allowed to compete. Those with neck or back difficulties, as well as those with cardiac diseases, should avoid kart racing. If you have any doubt, please check with your doctor prior to racing.<br></p>
+	  <br><h1 id="nine">FLAGS</h1>
+	  <div id="flags"></div>
+	 <br><h1>FREQUENTLY ASKED QUESTIONS</h1>
+	  <ul class="faqs">
+	    <li><em><font color="#B22222">How tall do you have to be to race?</font></em>
+		<br>All teen/adult racers will need to be at least 4'10 to race our larger, faster go-karts. All junior racers wll need to be at least 4'0 tall to race on track.</li><br>
+		<li><em><font color="#B22222">What clothing should i wear?</font></em>
+		<br>All drivers must wear closed-toe shoes. Any open-toe shoes are not allowed on track and you will not be able to participate to race. We recommend dressing casually in a shirt with pants/ shirts.</li><br>
+		<li><em><font color="#B22222">How fast are Initial D Karting's go-karts?</font></em>
+		<br>The adult go-karts can reach speeds of up to 45MPH. The junior karts can reach speeds of up to 20MPH.</li><br>
+		<li><em><font color="#B22222">How long does each race take to complete at Initial D Karting?</font></em>
+		<br>It takes about an hour to complete a race, but it all depends on how fast the drivers are going and whether or not there are any caution periods. So time may vary.</li><br>
+		<li><em><font color="#B22222">How old do you have to be to race?</font></em>
+		<br>There is no age requirement to race at Initial D Karting! Height is the only requirement to be able to race.</li><br> 
+		<li><em><font color="#B22222">Is there a maximum weight and height to race?</font></em>
+		<br>The maximum weight for an adult go-kart is around 300lbs and maximum height is around 6'7. A junior kart has a maximum height of around 5'3 and only accommodate children.</li><br>
+		<li><em><font color="#B22222">Do you need a Driver's License to drive at Initial D Karting?</font></em>
+		<br>No, you do not need a driver's license to drive a go-kart at Initial D Karting.</li><br>
+		<li><em><font color="#B22222">Are the karts gas or electric?</font></em>
+		<br>All of the go-karts are 100% electric!</li><br>
+		<li><em><font color="#B22222">Do you need experience to race at Initial D Karting?</font></em>
+		<br>No prior experience is needed to race. All drivers will be briefed on track safety, rules, flag meanings and kart operation prior to their first race.</li><br>
+	  </ul>
+	<footer>
+		Copyright &copy; 2022 Lugo Webpage<br>
+		<a href="mailto:info@lugowebpage.com">info@lugowebpage.com</a>
+	</footer>  
+</main>	 
+</div>
+</body>
+</html>	  
